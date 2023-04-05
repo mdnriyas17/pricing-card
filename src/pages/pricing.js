@@ -28,7 +28,7 @@ function Pricing(){
                 Reports</li>
             </ul>
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a className="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Pricing(){
                 Reports</li>
             </ul>
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a  className="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ function Pricing(){
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
             </ul>
             <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase">Button</a>
+              <a className="btn btn-primary text-uppercase">Button</a>
             </div>
           </div>
         </div>
